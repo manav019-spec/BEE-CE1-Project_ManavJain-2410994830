@@ -1,2 +1,3 @@
-**UCart (UniCart) — E-commerce Shopping Cart**
-BEE-CE1 by Manav Jain_2410994830
+# UCart (UniCart) — E-commerce Shopping Cart
+
+**Project By:** Manav Jain_2410994830
